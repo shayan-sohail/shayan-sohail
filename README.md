@@ -1,5 +1,3 @@
-[![MasterHead](Images/banner.jpeg)]()
-
 <h1 align="center">Hi 👋, I'm Shayan</h1>
 
 <p>Experienced software engineer with over 3 years of expertise in C++, C, and C#, specializing in developing high-performance applications on UNIX and Windows. Proficient in WPF, MFC, CUDA, STL, and adept with Git, Teams Foundation Server, CMake, Embedded development on ARM architecture, ESP-IDF. Committed to optimizing complex systems and delivering robust, cutting-edge solutions.
