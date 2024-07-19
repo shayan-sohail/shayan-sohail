@@ -19,6 +19,3 @@
   <br />
 - 🖥️ Experienced with editors/IDEs like <img align="center" src="Images/vscode.png" width="30"/> <img align="center" src="Images/visualstudio.png" width="35"/> <img align="center" src="Images/pycharm.png" width="30"/> <img align="center" src="Images/vim.png" width="30"/> <img align="center" src="Images/eclipse.png" width="30"/> <img align="center" src="Images/jupyter.png" width="30"/>
   <br />
-
-<p><img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=shayan-sohail&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="shayan-sohail" /> 
-<img align="center" height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=shayan-sohail&theme=github_dark_dimmed" alt="shayan-sohail" /></p>
