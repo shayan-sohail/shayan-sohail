@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shayan</h1>
 
-<p>Dynamic software engineer with 3+ years in C++, C, and C#, excelling in high-performance app development on UNIX and Windows. Expert in WPF, MFC, CUDA, and STL, known for optimizing complex systems and delivering innovative solutions.
+<p>Dynamic software engineer with 3.5+ years in C++, C, and C#, excelling in high-performance app development on UNIX and Windows. Expert in WPF, MFC, CUDA, and STL, known for optimizing complex systems and delivering innovative solutions.
 </p><br />
  
 - 🧑‍💻 I have worked with <img align="center" src="Images/cpp.png" width="30"/> <img align="center" src="Images/c.png" width="30"/> <img align="center" src="Images/csharp.png" width="35"/> <img align="center" src="Images/python.png" width="30"/> <img align="center" src="Images/matlab.png" width="30"/>
