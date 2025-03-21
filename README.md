@@ -3,7 +3,7 @@
 <p>Dynamic software engineer with 4+ years in C++, C, and C#, excelling in high-performance app development on UNIX and Windows. Expert in WPF, MFC, CUDA, React, React Native and STL, known for optimizing complex systems and delivering innovative solutions.
 </p><br />
  
-- 🧑‍💻 I have worked with <img align="center" src="Images/cpp.png" width="30"/> <img align="center" src="Images/c.png" width="30"/> <img align="center" src="Images/csharp.png" width="35"/> <img align="center" src="Images/python.png" width="30"/> <img align="center" src="Images/matlab.png" width="30"/>
+- 🧑‍💻 I have worked with <img align="center" src="Images/cpp.png" width="30"/> <img align="center" src="Images/c.png" width="30"/> <img align="center" src="Images/csharp.png" width="35"/> <img align="center" src="Images/python.png" width="30"/> <img align="center" src="Images/matlab.png" width="30"/> <img align="center" src="Images/typescript.webp" width="30"/> <img align="center" src="Images/React.webp" width="30"/>
   <br />
 
 - 🔧 I have extensive experience with <img align="center" src="Images/stl.png" width="55"/> <img align="center" src="Images/mfc.png" width="30"/> <img align="center" src="Images/cuda.png" width="30"/> <img align="center" src="Images/wpf.png" width="30"/> <img align="center" src="Images/qt.png" width="30"/>
